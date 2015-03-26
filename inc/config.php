@@ -4,12 +4,12 @@ $conf_include_path = 'inc/';
 $conf_images_path = 'img/';
 $conf_photos_path = 'pho/';
 $conf_main_page = 'index.php';
-$conf_main_url = 'http://www.ersmsk.com';
+$conf_main_url = 'http://www.lcgaste.com/ersmsk';
 $conf_logs_path = 'log/';
 $conf_mods_path = 'mod/';
 $conf_default_mod = 'home';
 
-// SETTINGS
+// DB SETTINGS
 $conf_db_host = '127.0.0.1';
 $conf_db_type = 'mysql';
 $conf_db_name = 'ersmsk';
